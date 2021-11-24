@@ -65,7 +65,7 @@
    "status" : "OK"
 }
 */
-const apiKey = "AIzaSyDZR_2jS_CyMBr7iuXukWsRp0gHRfdfHMI";
+const apiKey = "yourkeygoeshere";
 const geocodeUrl = "https://maps.googleapis.com/maps/api/geocode/json?region=us&address=";
 
 export default async function (zipcode) {

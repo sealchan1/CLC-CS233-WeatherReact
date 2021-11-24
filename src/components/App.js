@@ -21,7 +21,7 @@ class App extends Component {
     };
 
     this.url = "https://api.openweathermap.org/data/2.5/onecall?";
-    this.apikey = "&exclude=minutely,hourly,current&units=imperial&appid=deda6d6ff201f7a3ac73b17c270ef19f";
+    this.apikey = "&exclude=minutely,hourly,current&units=imperial&appid=keygoeshere";
     
     this.onFormSubmit = this.onFormSubmit.bind(this);
     this.onDayClicked = this.onDayClicked.bind(this);
